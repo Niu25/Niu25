@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niu25
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning IT for Software development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing team
 - 📫 How to reach me ...
 
 <!---
